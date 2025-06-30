@@ -1,4 +1,4 @@
----
+--
 title: GitHub Terms for Additional Products and Features
 redirect_from:
   - /github/site-policy/github-additional-product-terms
