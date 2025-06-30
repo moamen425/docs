@@ -168,4 +168,10 @@ You may download Microsoft SQL Server Standard Edition container image for Linux
 
 GitHub Models is a feature that allows you to learn, try, and test artificial intelligence models on GitHub.com. You can access GitHub Models via the [GitHub Marketplace](https://github.com/marketplace). Learn more about GitHub Models by visiting [Prototyping with AI models](/github-models/prototyping-with-ai-models).
 
-Your use of this feature is subject to the terms of the company hosting the model and the model license.
+Your use of this feature is subject to the terms of the 
+company hosting the model and the model license.
+shift+m
+tab
+
+
+![Uploading 1000042195.jpg…]()
